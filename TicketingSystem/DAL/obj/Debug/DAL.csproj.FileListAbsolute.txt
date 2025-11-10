@@ -1,0 +1,26 @@
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/bin/Debug/DAL.dll
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/bin/Debug/DAL.pdb
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/obj/Debug/DAL.dll
+C:/Users/HP/programming/SE/SE PE 2/TicketingSystem/TicketingSystem/DAL/obj/Debug/DAL.pdb
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/bin/Debug/DAL.dll
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/bin/Debug/DAL.pdb
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/obj/Debug/DAL.dll
+D:/2nd year/Software Engineering/Labs/Assignment1(TVM)/TicketingSystem/DAL/obj/Debug/DAL.pdb
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/bin/Debug/DAL.dll
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/bin/Debug/DAL.pdb
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.dll
+//Mac/Home/Downloads/PE2TicketingSystem-main/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.pdb
+/Users/admin/Documents/Code/Python/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.dll
+/Users/admin/Documents/Code/Python/PE2TicketingSystem-main/TicketingSystem/DAL/obj/Debug/DAL.pdb
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\bin\Debug\DAL.dll
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\bin\Debug\DAL.pdb
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\obj\Debug\DAL.dll
+C:\Mac\Home\Documents\Code\Python\PE2TicketingSystem-main\TicketingSystem\DAL\obj\Debug\DAL.pdb
