@@ -53,7 +53,6 @@ Open `docs/ticket_vendor_diagrams.md` to view or copy the Mermaid source for:
 - Passenger journey and inter-system activity diagrams.
 - Sequence, state, class, architecture, and deployment views.
 
-Render the diagrams via VS Code Markdown preview, [mermaid.live](https://mermaid.live), or any Mermaid-compatible renderer if you need PNG/SVG exports.
 
 ## Troubleshooting
 
